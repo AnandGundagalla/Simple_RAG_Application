@@ -1,4 +1,4 @@
-📄 RAG Document Chatbot – Assignment Submission
+📄 RAG Document Chatbot 
 
 This project implements a Retrieval-Augmented Generation (RAG) Document Question-Answering Chatbot using:
 
